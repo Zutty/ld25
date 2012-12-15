@@ -4,3 +4,7 @@ html-template/
 .actionScriptProperties
 .settings/
 .flexProperties
+
+assets/.DS_Store
+
+.DS_Store
